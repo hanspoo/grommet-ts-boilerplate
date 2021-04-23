@@ -6,5 +6,5 @@ Bootstrapped with create-react-app.
 
 Execution:
 
-yarn install
+yarn install 
 yarn start
